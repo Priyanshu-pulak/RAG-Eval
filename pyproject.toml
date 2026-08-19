@@ -13,6 +13,7 @@ dependencies = [
     "langchain-chroma>=1.1.0",
     "langchain-core>=1.5.3",
     "langchain-google-genai>=4.3.3",
+    "langchain-huggingface>=1.2.2",
     "langchain-openai>=1.4.3",
     "langchain-text-splitters>=1.1.2",
     "pytest>=9.1.1",
